@@ -44,6 +44,7 @@ Time: 19:00 (GMT +4)
 **Sass**
 * https://scotch.io/tutorials/aesthetic-sass-2-colors/
 
+
 ## Session 2: The path to advanced skills
 Date: 20-10-2017
 Time: 19:00 (GMT +4)
@@ -94,9 +95,11 @@ Time: 19:00 (GMT +4)
 ## Session 3: Open source project and team work
 Date: 27-10-2017
 Time: 19:00 (GMT +4)
+
 ### Links
-**Learn basic git
+**Learn basic git**
 * https://guides.github.com/activities/hello-world/
+
 
 ## Session 4: Evaluation
 The date and time will be announced.
