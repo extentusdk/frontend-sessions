@@ -48,9 +48,55 @@ Time: 19:00 (GMT +4)
 Date: 20-10-2017
 Time: 19:00 (GMT +4)
 
+### Links
+**Frontend guidelines**
+* https://github.com/bradfrost/frontend-guidelines-questionnaire
+* https://github.com/bendc/frontend-guidelines
+* https://developers.google.com/web/
+* https://getmdl.io/
+* http://cssreference.io/
+* http://htmlreference.io/
+
+**UX Patterns**
+* http://ui-patterns.com/patterns
+* https://zurb.com/patterntap
+* http://uipatterns.io/
+* https://pttrns.com/
+* http://useyourinterface.com/
+
+**Frontend tools**
+* http://yeoman.io/
+* https://github.com/yeoman/generator-webapp
+
+**SASS/SCSS**
+* https://sass-guidelin.es/
+* http://jackiebalzer.com/color
+* http://bourbon.io/
+
+**jQuery vs. Vanilla javascript**
+* http://youmightnotneedjquery.com/
+* https://gist.github.com/joyrexus/7307312
+
+**Learn Javascript**
+* https://google.github.io/styleguide/jsguide.html
+* https://github.com/airbnb/javascript
+* http://jstherightway.org/
+* https://webapplog.com/es6/
+
+**Code collaboration tool**
+* https://jsfiddle.net/
+* https://jsbin.com/?html,output
+* https://www.webpackbin.com/bins/-KwiksQFIGTb6ojvpvb_
+* https://codesandbox.io/
+* https://codepen.io/
+
+
 ## Session 3: Open source project and team work
 Date: 27-10-2017
 Time: 19:00 (GMT +4)
+### Links
+**Learn basic git
+* https://guides.github.com/activities/hello-world/
 
 ## Session 4: Evaluation
 The date and time will be announced.
